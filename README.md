@@ -5,6 +5,10 @@ Professional message forwarding software for Telegram channels, groups, and cust
 [![Latest Release](https://img.shields.io/badge/Version-2.0.0-blue)](https://github.com/anoop14613742/forward-bot-pro/releases)
 [![License](https://img.shields.io/badge/License-Commercial-red)](./LICENSE)
 
+## Preview
+
+![Forward Bot PRO dashboard preview](./assets/preview.svg)
+
 ## Features
 
 - Multi-destination forwarding for owned or administered Telegram properties
