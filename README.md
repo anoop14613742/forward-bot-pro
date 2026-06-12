@@ -7,7 +7,7 @@ Professional message forwarding software for Telegram channels, groups, and cust
 
 ## Preview
 
-![Forward Bot PRO dashboard preview](./assets/preview.svg)
+![Forward Bot PRO software screenshot](./assets/forward-bot-pro.jpg)
 
 ## Features
 
